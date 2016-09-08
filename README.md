@@ -49,22 +49,19 @@
 * [Refund](https://docs.haravan.com/blogs/api-reference/1000017998-refund)
 
 
-------------------------------------------
-
 ## Haravan Themes
 
 * [Liquid Reference](https://docs.haravan.com/blogs/co-ban)
 * [Liquid Cheatsheet](https://docs.haravan.com/pages/cheat-sheet)
 * [Bootstrap Framework](https://docs.haravan.com/themeframework/getting-started.html)
 * [Giao diện](https://huongdan.haravan.com/blogs/giao-dien)
-------------------------------------------
+
 
 ## Haravan Partner
 
 * [Partners](https://docs.haravan.com/blogs/partners)
 * [Tổng quan](https://docs.haravan.com/blogs/partners/1000022252-tong-quan)
 
-------------------------------------------
 
 ## Hướng dẫn chức năng Haravan
 
@@ -73,26 +70,22 @@
 * [Cấu hình](https://huongdan.haravan.com/blogs/cau-hinh-chung)
 * [Ứng dụng khác](https://huongdan.haravan.com/blogs/nang-cao)
 
-------------------------------------------
 
 ## 6 bước hoàn chỉnh Website
 
 * [6 bước bắt đầu làm website với Haravan](https://huongdan.haravan.com/pages/6-buoc-bat-dau-voi-haravan)
 
-------------------------------------------
 
 ## HaraPage
 
 * [HaraPage](https://huongdan.haravan.com/blogs/harapage)
 * [Hướng dẫn HaraPage](https://huongdan.haravan.com/blogs/harapage/1000041594-huong-dan-harapage)
 
-------------------------------------------
 
 ## Hướng dẫn kết nối nhà vận chuyển
 
 * [Hướng dẫn kết nối nhà vận chuyển](https://huongdan.haravan.com/blogs/van-chuyen)
 
-------------------------------------------
 
 ## Câu hỏi thường gặp
 

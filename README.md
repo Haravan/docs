@@ -13,13 +13,14 @@
 
 ## Hướng dẫn kết nối Haravan API
 
-* Kết nối bằng BasicAuthenticate (Private APP):
-  - [Video Hướng dẫn BasicAuthenticate]()
-  - [Docs Hướng dẫn BasicAuthenticate]()
+* [file hướng dẫn và code](https://github.com/Haravan/docs/tree/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API)
+* Video Hướng dẫn BasicAuthenticate
+  [link youtube]()
+  [link download mediafire]()
+* Video Hướng dẫn OAuth2
+  [link youtube]()
+  [link download mediafire]()
 
-* Kết nối bằng OAuth2 (App dùng cho nhiều Shop)
-  - [Video Hướng dẫn OAuth2]()
-  - [Docs Hướng dẫn OAuth2]()
 
 ## Haravan API
 * [Hướng dẫn Haravan API](https://docs.haravan.com/blogs/api)

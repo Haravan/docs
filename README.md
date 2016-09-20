@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Haravan API](#haravan-api)
+1. [Hướng dẫn kết nối Haravan API](#huong-dan-ket-noi-haravan-api)
 2. [Haravan Themes](#haravan-themes)
 3. [Haravan Partner](#haravan-partner)
 4. [Hướng dẫn chức năng Haravan](#hướng-dẫn-chức-năng-haravan)
@@ -11,10 +11,18 @@
 
 ------------------------------------------
 
+## Hướng dẫn kết nối Haravan API
+
+* Kết nối bằng BasicAuthenticate (Private APP):
+  - [Video Hướng dẫn BasicAuthenticate]()
+  - [Docs Hướng dẫn BasicAuthenticate]()
+
+* Kết nối bằng OAuth2 (App dùng cho nhiều Shop)
+  - [Video Hướng dẫn OAuth2]()
+  - [Docs Hướng dẫn OAuth2]()
+
 ## Haravan API
-
 * [Hướng dẫn Haravan API](https://docs.haravan.com/blogs/api)
-
 * [Create a private app](https://docs.haravan.com/blogs/authentication/1000017782-create-a-private-app)
 * [OAuth](https://docs.haravan.com/blogs/authentication/1000017781-oauth)
 * [ScriptTag](https://docs.haravan.com/blogs/ui-integrations/1000017817-scripttag)

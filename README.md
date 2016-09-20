@@ -15,12 +15,11 @@
 
 * [file hướng dẫn và code](https://github.com/Haravan/docs/tree/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20k%E1%BA%BFt%20n%E1%BB%91i%20Haravan%20API)
 * Video Hướng dẫn BasicAuthenticate:
-  [youtube](),
+  [youtube](https://www.youtube.com/watch?v=sCjx4raC8eQ),
   [mediafire](http://www.mediafire.com/download/r4pdxdvo4hhk57d/1.Hu%CC%9Bo%CC%9B%CC%81ng_da%CC%82%CC%83n_BasicAuthenticate.mov)
 * Video Hướng dẫn OAuth2:
-  [youtube](),
+  [youtube](https://www.youtube.com/watch?v=lOIgLHqnUbQ),
   [mediafire](http://www.mediafire.com/download/t1capq072cq5h49/2.Hu%CC%9Bo%CC%9B%CC%81ng_da%CC%82%CC%83n_OAuth2.mov)
-
 
 ## Haravan API
 * [Hướng dẫn Haravan API](https://docs.haravan.com/blogs/api)

@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [Hướng dẫn kết nối Haravan API](#huong-dan-ket-noi-haravan-api)
+1. [Hướng dẫn kết nối Haravan API](#hướng-dẫn-kết-nối-haravan-api)
 2. [Haravan Themes](#haravan-themes)
 3. [Haravan Partner](#haravan-partner)
 4. [Hướng dẫn chức năng Haravan](#hướng-dẫn-chức-năng-haravan)

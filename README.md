@@ -72,12 +72,16 @@
 * [Tổng quan](https://docs.haravan.com/blogs/partners/1000022252-tong-quan)
 
 
-## Hướng dẫn chức năng Haravan
+## Hướng dẫn chức năng Haravan ( Tính năng chung )
 
-* [Bán hàng](https://huongdan.haravan.com/blogs/don-hang)
-* [Nội dung](https://huongdan.haravan.com/blogs/blog)
-* [Cấu hình](https://huongdan.haravan.com/blogs/cau-hinh-chung)
-* [Ứng dụng khác](https://huongdan.haravan.com/blogs/nang-cao)
+* [Quản lý sản phẩm](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-san-pham)
+* [Tồn kho](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-ton-kho-nang-cao)
+* [Đơn hàng](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-don-hang)
+* [Khuyến mãi](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/khuyen-mai)
+* [Báo cáo](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-bao-cao)
+* [khách hàng](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/1000016173-tong-quan-ve-khach-hang)
+* [Cấu hình](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-cau-hinh)
+* [Vận chuyển](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-van-chuyen)
 
 
 ## 6 bước hoàn chỉnh Website
@@ -87,8 +91,7 @@
 
 ## HaraPage
 
-* [HaraPage](https://huongdan.haravan.com/blogs/harapage)
-* [Hướng dẫn HaraPage](https://huongdan.haravan.com/blogs/harapage/1000041594-huong-dan-harapage)
+* [Hướng dẫn HaraPage](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/harapage)
 
 
 ## Hướng dẫn kết nối nhà vận chuyển
@@ -98,5 +101,17 @@
 
 ## Câu hỏi thường gặp
 
-* [Câu hỏi thường gặp](https://huongdan.haravan.com/blogs/cau-hoi-thuong-gap)
+* [Câu hỏi thường gặp](https://huongdan.haravan.com/blogs/cau-hoi-thuong-gap/cau-hoi-thuong-gap)
+* [Haraweb](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/giao-dien)
+* [HaraRetail](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/ung-dung-hararetail-quan-ly-ban-hang)
+* [Quảng cáo](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/huong-dan-gan-google-remarketing-vao-website)
+* [Kho ứng dụng](https://apps.haravan.com/)
+* [Kho giao diện](https://themes.haravan.com/)
+
+
+
+
+
+
+
 

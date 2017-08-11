@@ -17,10 +17,7 @@ class HaravanClient {
 	// Get the URL required to request authorization
 	public function getAuthorizeUrl($scope, $redirect_url='') {
 		$url = "https://{$this->shop_domain}/admin/oauth/authorize?client_id={$this->api_key}&scope=" . urlencode($scope);
-		if ($redirect_url != '')
-		{
-			$url .= "&redirect_uri=" . urlencode($redirect_url);
-		}
+		$url .= "&redirect_uri=" . urlencode($redirect_url);
         $url .= "&response_type=code";
 		return $url;
 	}
@@ -30,10 +27,7 @@ class HaravanClient {
 		// POST to https://SHOP_NAME.myharavan.com/admin/oauth/access_token
 		$url = "https://{$this->shop_domain}/admin/oauth/access_token";
 		$payload = "client_id={$this->api_key}&client_secret={$this->secret}&code=$code";
-        if ($redirect_url != '')
-		{
-			$payload .= "&redirect_uri=" . urlencode($redirect_url);
-		}
+        $payload .= "&redirect_uri=" . urlencode($redirect_url);
         $payload .= '&grant_type=authorization_code';
         
 		$response = $this->curlHttpApiRequest('POST', $url, '', $payload, array());

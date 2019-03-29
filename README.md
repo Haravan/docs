@@ -62,8 +62,7 @@
 
 * [Liquid Reference](https://docs.haravan.com/blogs/co-ban)
 * [Liquid Cheatsheet](https://docs.haravan.com/pages/cheat-sheet)
-* [Bootstrap Framework](https://docs.haravan.com/themeframework/getting-started.html)
-* [Giao diện](https://huongdan.haravan.com/blogs/giao-dien)
+* [Giao diện](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/giao-dien)
 
 
 ## Haravan Partner
@@ -74,14 +73,14 @@
 
 ## Hướng dẫn chức năng Haravan ( Tính năng chung )
 
-* [Quản lý sản phẩm](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-san-pham)
-* [Tồn kho](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-ton-kho-nang-cao)
+* [Quản lý sản phẩm](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/san-pham)
+* [Quản lý tồn kho cơ bản](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/quan-ly-ton-kho-co-ban-1)
+* [Quản lý tồn kho nâng cao](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/quan-ly-ton-kho-nang-cao)
 * [Đơn hàng](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-don-hang)
 * [Khuyến mãi](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/khuyen-mai)
-* [Báo cáo](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-bao-cao)
+* [Báo cáo](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/bao-cao-haravan)
 * [khách hàng](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/1000016173-tong-quan-ve-khach-hang)
-* [Cấu hình](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-cau-hinh)
-* [Vận chuyển](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-van-chuyen)
+* [Vận chuyển](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/tong-quan-ve-van-chuyen)
 
 
 ## 6 bước hoàn chỉnh Website
@@ -96,14 +95,14 @@
 
 ## Hướng dẫn kết nối nhà vận chuyển
 
-* [Hướng dẫn kết nối nhà vận chuyển](https://huongdan.haravan.com/blogs/van-chuyen)
+* [Hướng dẫn kết nối nhà vận chuyển](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/ket-noi-nha-van-chuyen)
 
 
 ## Câu hỏi thường gặp
 
-* [Câu hỏi thường gặp](https://huongdan.haravan.com/blogs/cau-hoi-thuong-gap/cau-hoi-thuong-gap)
+* [Câu hỏi thường gặp](https://support.haravan.com/support/solutions)
 * [Haraweb](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/giao-dien)
-* [HaraRetail](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/ung-dung-hararetail-quan-ly-ban-hang)
+* [HaraRetail](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/ung-dung-hararetail)
 * [Quảng cáo](https://huongdan.haravan.com/blogs/tai-lieu-huong-dan/huong-dan-gan-google-remarketing-vao-website)
 * [Kho ứng dụng](https://apps.haravan.com/)
 * [Kho giao diện](https://themes.haravan.com/)
